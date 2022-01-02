@@ -1,2 +1,2 @@
 # Pomodoro
-Pomodoro Timer
+Simple Pomodoro Timer productivity app.
